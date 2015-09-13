@@ -1,0 +1,32 @@
+
+
+
+body{ background:-webkit-linear-gradient(#ea4c88, rgba(93, 174, 213, 1));
+
+ background:-moz-linear-gradient(#ea4c88, rgba(93, 174, 213, 1));
+  background:-o-linear-gradient(#ea4c88, rgba(93, 174, 213, 1));
+   background:-ms-linear-gradient(#ea4c88, rgba(93, 174, 213, 1));
+ background:linear-gradient(#ea4c88, rgba(93, 174, 213, 1));
+}
+
+
+/*************************login form*******************************************************/
+
+
+
+
+.pica{width:20%; margin-top: 40px;
+}
+
+
+.login_effect{
+	
+	margin-top:-503px;
+	transition:2s;
+}
+
+.login_effectJQ{
+	margin-top:103px;
+	transition:2s;
+}
+
